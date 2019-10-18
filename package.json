@@ -1,0 +1,29 @@
+{
+  "name": "basic-event-diagnostics",
+  "version": "0.0.1",
+  "description": "a small library that will track and retrieve a number of events per window of time (in seconds up to maximum of 5 minutes)",
+  "main": "index.js",
+  "module": "index.mjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zorostang/event-tracker.git"
+  },
+  "keywords": [
+    "event",
+    "tracking",
+    "count",
+    "counter"
+  ],
+  "author": "Gino Bernardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zorostang/event-tracker/issues"
+  },
+  "homepage": "https://github.com/zorostang/event-tracker#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
